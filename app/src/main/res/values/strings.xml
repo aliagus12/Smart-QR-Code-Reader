@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smart QR Code Reader</string>
+    <string name="signin_button">Sign In</string>
+    <string name="please_wait">Please wait....</string>
+    <string name="scan">Scan</string>
+    <string name="location">Location</string>
+    <string name="time">Time</string>
+    <string name="login_failed">Failed! Please try again!</string>
+    <string name="playservice_error">Google Play Service Error</string>
+    <string name="https">https://</string>
+    <string name="dialog_request">Send Request?</string>
+    <string name="not_url">Invalid QR Code!</string>
+    <string name="try_again">Try again</string>
+    <string name="exit">Exit</string>
+    <string name="success">Success!</string>
+    <string name="error">Error</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="meeting">Meeting</string>
+</resources>
